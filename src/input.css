@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --------- customised css ----- */
+
+.radial{
+    background: radial-gradient(rgb(54, 54, 188),rgb(243, 211, 82));
+}
